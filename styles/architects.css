@@ -236,11 +236,11 @@ footer {
     max-width: 1440px;
     padding: 39px 410px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .footer-container p {
     font-size: 1.25rem;
-    text-align: center;
 }
 
 
